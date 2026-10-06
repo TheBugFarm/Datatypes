@@ -6,3 +6,4 @@ fn main() {
 
     println!("The first season is {first} and the second season is {second}");
 }
+
