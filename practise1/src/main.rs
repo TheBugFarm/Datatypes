@@ -5,5 +5,7 @@ fn main() {
     let second = seasons [1];
 
     println!("The first season is {first} and the second season is {second}");
+
+    dbg!(2+2);
 }
 
